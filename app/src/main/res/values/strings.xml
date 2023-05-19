@@ -161,10 +161,11 @@
     <string name="contact_email_description">Contact us at this email address</string>
 
     <!-- dev names -->
-    <string name="developer_pucci" translatable="false">Alessandro Pucci (869177)</string>
-    <string name="developer_ruiz" translatable="false">Matias Aldo Ruiz (869139)</string>
-    <string name="developer_disaro" translatable="false">Alessio Disarò (866247)</string>
-    <string name="developer_saad" translatable="false">Ebraam Saad (856096)</string>
+    <string name="developer_Abhi" translatable="false">Abhijeet</string>
+    <string name="developer_Tejas" translatable="false">Tejas</string>
+    <string name="developer_Zebaan" translatable="false">Zebaan</string>
+    <string name="developer_Charvi" translatable="false">Charvi</string>
+    <string name="developer_Nikita" translatable="false">Nikita</string>
 
     <!-- settings -->
     <string name="settings_title">Settings</string>

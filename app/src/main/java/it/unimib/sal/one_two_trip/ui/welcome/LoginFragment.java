@@ -103,7 +103,7 @@ public class LoginFragment extends Fragment {
                 .setGoogleIdTokenRequestOptions(BeginSignInRequest.GoogleIdTokenRequestOptions.builder()
                         .setSupported(true)
                         .setServerClientId(getString(R.string.default_web_client_id))
-                        .setFilterByAuthorizedAccounts(false)
+                        .setFilterByAuthorizedAccounts(true)
                         .build())
                 .setAutoSelectEnabled(true)
                 .build();
